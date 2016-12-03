@@ -1,4 +1,12 @@
-*{
-	background-color:aqua ;
-
+img{
+width:1200px;
+float: right;
+margin-right: 25px;
 }
+
+#bannerimg {
+	height: 200px;
+	display: block;
+	margin: 0 auto;
+}
+
